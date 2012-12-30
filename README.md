@@ -3,8 +3,8 @@ national-parks
 
 List of US National Parks
 
-1. Yellowstone
+1. Yellowstone National Park
 2. Yosemite
 3. Grand Canyon
 4. Isle Royale
-5. Death Valley
+5. Death Valley National Park
